@@ -13,9 +13,7 @@
 
 ## O mnie
 
-Jestem inżynierem AI/ML zajmującym się budowaniem inteligentnych systemów automatyzacji i wsparcia biznesowego. Moja pasja to projektowanie rozwiązań, które łączą sztuczną inteligencję, automatyzację procesów i niezawodną infrastrukturę IT. 
-
-Specjalizuję się w implementacji systemów RAG, pracy z dużymi modelami językowymi oraz tworzeniu automatyzacji biznesowych. Wierzę, że technologia powinna rozwiązywać rzeczywiste problemy i dostarczać konkretną wartość. Zawsze szukam wyzwań, które pozwolą mi rozwijać umiejętności i przyczyniać się do rozwoju zespołu.
+Moją ambicją jest tworzenie oprogramowania, które automatyzuje powtarzalne zadania – po to, by ludzie mogli skupić się na tym, co twórcze i ważne. Wierzę, że najlepsze projekty powstają tam, gdzie pasja spotyka się z potrzebą rozwiązywania realnych problemów – a sukces nie kończy się na wdrożeniu, tylko zaczyna w momencie, gdy ktoś dzięki Twojej pracy osiąga swój własny cel.
 
 ---
 
