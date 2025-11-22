@@ -13,8 +13,7 @@
 
 ## O mnie
 
-Jestem inżynierem AI/ML zajmującym się budowaniem systemów do automatyzacji i wspomagania sztuczną inteligencją. Student na Politechnice Opolskiej, członek i współorganizator Studenckiego Koła Naukowego TeamBIT. 
-
+Jestem inżynierem AI/ML zajmującym się budowaniem systemów do automatyzacji i wspomagania sztuczną inteligencją.
 Zajmuję się projektowaniem i wdrażaniem rozwiązań, które łączą sztuczną inteligencję, automatyzację procesów i niezawodną infrastrukturę. Lubię rozwiązywać konkretne problemy z wykorzystaniem nowoczesnych technologii.
 
 ---
