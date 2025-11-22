@@ -5,7 +5,6 @@
 **AI/ML Engineer & DevOps**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jakubkamionka)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kvmyk)
 
 </div>
 
@@ -32,6 +31,8 @@ Moją ambicją jest tworzenie oprogramowania, które automatyzuje powtarzalne za
 ![Gemini](https://img.shields.io/badge/Gemini-8E7CC3?style=for-the-badge&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-0A0A23?style=for-the-badge&logo=perplexity&logoColor=white)
+
 
 ### Machine Learning
 
