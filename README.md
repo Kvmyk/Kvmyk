@@ -34,7 +34,6 @@ Specjalizuję się w implementacji systemów RAG, pracy z dużymi modelami języ
 ![Gemini](https://img.shields.io/badge/Gemini-8E7CC3?style=for-the-badge&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 
 ### Machine Learning
 
