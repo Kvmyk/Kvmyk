@@ -8,7 +8,7 @@
 
 ---
 
-## Moje cele
+## Mój cel
 
 Moją ambicją jest tworzenie oprogramowania, które automatyzuje powtarzalne zadania – po to, by ludzie mogli skupić się na tym, co twórcze i ważne. Wierzę, że najlepsze projekty powstają tam, gdzie pasja spotyka się z potrzebą rozwiązywania realnych problemów – a sukces nie kończy się na wdrożeniu, tylko zaczyna w momencie, gdy ktoś dzięki Twojej pracy osiąga swój własny cel.
 
