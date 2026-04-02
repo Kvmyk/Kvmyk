@@ -73,3 +73,6 @@ My ambition is to build software that automates repetitive tasks — so that peo
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kvmyk&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kvmyk&layout=compact&theme=dark)
