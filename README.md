@@ -13,7 +13,7 @@
 
 ## My Goal
 
-My ambition is to build software that automates repetitive tasks - so that people can focus on what is creative and meaningful. I believe the best projects emerge where passion meets the need to solve real problems, and success doesn't end at deployment - it begins the moment someone achieves their own goal thanks to your work.
+My ambition is to build software that automates repetitive tasks — so that people can focus on what is creative and meaningful. I believe the best projects emerge where passion meets the need to solve real problems, and success doesn't end at deployment — it begins the moment someone achieves their own goal thanks to your work.
 
 ---
 
@@ -52,6 +52,7 @@ My ambition is to build software that automates repetitive tasks - so that peopl
 ![OpenAI](https://img.shields.io/badge/OpenAI-161B22?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-161B22?style=flat-square&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-161B22?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-161B22?style=flat-square&logo=langgraph&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-161B22?style=flat-square&logo=perplexity&logoColor=white)
 
 ### Machine Learning
