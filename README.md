@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1500&color=58A6FF&center=true&vCenter=true&width=620&lines=Jakub+Kamionka;DevOps+%7C+Solutions+Specialist+%7C+SAP+Developer" alt="Jakub Kamionka" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1500&color=58A6FF&center=true&vCenter=true&width=900&lines=Jakub+Kamionka;DevOps+%7C+Solutions+Specialist+%7C+SAP+Developer" alt="Jakub Kamionka" />
 
 <p>
   <a href="https://linkedin.com/in/jakubkamionka"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a>
