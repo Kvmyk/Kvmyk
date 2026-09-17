@@ -13,7 +13,7 @@
 
 ## My Goal
 
-My ambition is to build software that automates repetitive tasks — so that people can focus on what is creative and meaningful. I believe the best projects emerge where passion meets the need to solve real problems, and success doesn't end at deployment — it begins the moment someone achieves their own goal thanks to your work.
+My ambition is to build software that automates repetitive tasks - so that people can focus on what is creative and meaningful. I believe the best projects emerge where passion meets the need to solve real problems, and success doesn't end at deployment - it begins the moment someone achieves their own goal thanks to your work.
 
 ---
 
