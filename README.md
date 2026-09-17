@@ -37,13 +37,9 @@ My ambition is to build software that automates repetitive tasks — so that peo
 
 ### SAP
 
-![S/4HANA](https://img.shields.io/badge/S%2F4HANA-161B22?style=flat-square&logo=sap&logoColor=white)
-![SAP BTP](https://img.shields.io/badge/SAP%20BTP-161B22?style=flat-square&logo=sap&logoColor=white)
+![ABAP](https://img.shields.io/badge/ABAP-161B22?style=flat-square&logo=sap&logoColor=white)
 ![ABAP OO](https://img.shields.io/badge/ABAP%20OO-161B22?style=flat-square&logo=sap&logoColor=white)
 ![Fiori / SAPUI5](https://img.shields.io/badge/Fiori%20%2F%20SAPUI5-161B22?style=flat-square&logo=sap&logoColor=white)
-![CAP](https://img.shields.io/badge/CAP-161B22?style=flat-square&logo=sap&logoColor=white)
-![SAP HANA](https://img.shields.io/badge/SAP%20HANA-161B22?style=flat-square&logo=sap&logoColor=white)
-![OData](https://img.shields.io/badge/OData-161B22?style=flat-square&logo=sap&logoColor=white)
 
 </td>
 </tr>
@@ -105,7 +101,7 @@ My ambition is to build software that automates repetitive tasks — so that peo
 
 ### Cloud & Infrastructure
 
-![Azure](https://img.shields.io/badge/Azure-161B22?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-161B22?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-161B22?style=flat-square&logo=cloudflare&logoColor=white)
 
 </td>
@@ -118,10 +114,12 @@ My ambition is to build software that automates repetitive tasks — so that peo
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Kvmyk&show_icons=true&hide_border=true&count_private=true&theme=github_dark" alt="GitHub stats" />
-<img height="160" src="https://streak-stats.demolab.com?user=Kvmyk&hide_border=true&theme=github-dark" alt="Streak" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kvmyk&theme=github_dark" alt="Profile details" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kvmyk&layout=compact&hide_border=true&langs_count=8&theme=github_dark" alt="Most used languages" />
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kvmyk&theme=github_dark" alt="Profile details" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kvmyk&theme=github_dark" alt="Top languages by repo" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kvmyk&theme=github_dark" alt="Top languages by commit" />
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kvmyk&theme=github_dark" alt="Stats" />
+<img height="170" src="https://streak-stats.demolab.com?user=Kvmyk&hide_border=true&theme=github-dark" alt="Streak" />
 
 </div>
