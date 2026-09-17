@@ -77,6 +77,9 @@ My ambition is to build software that automates repetitive tasks — so that peo
 ### Automation & DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-161B22?style=flat-square&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-161B22?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-161B22?style=flat-square&logo=grafana&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-161B22?style=flat-square&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-161B22?style=flat-square&logo=jenkins&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-161B22?style=flat-square&logo=azure-devops&logoColor=white)
