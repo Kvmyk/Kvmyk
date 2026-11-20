@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1500&color=58A6FF&center=true&vCenter=true&width=900&lines=Jakub+Kamionka;Agentic+Engineer+%7C+SAP+Developer" alt="Jakub Kamionka" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1500&color=58A6FF&center=true&vCenter=true&width=900&lines=Jakub+Kamionka;Agentic+Engineer+%7C+SAP+Developer;SAP+ABAP+Developer+%40+Convista+Poland;Building+AI+agents+with+Claude+Code+%26+MCP" alt="Jakub Kamionka" />
 
 <p>
   <a href="https://linkedin.com/in/jakubkamionka"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a>
@@ -39,14 +39,29 @@ My ambition is to build software that automates repetitive tasks - so that peopl
 
 ![ABAP](https://img.shields.io/badge/ABAP-161B22?style=flat-square&logo=sap&logoColor=white)
 ![ABAP OO](https://img.shields.io/badge/ABAP%20OO-161B22?style=flat-square&logo=sap&logoColor=white)
+![SAP RAP](https://img.shields.io/badge/SAP%20RAP-161B22?style=flat-square&logo=sap&logoColor=white)
+![OData](https://img.shields.io/badge/OData-161B22?style=flat-square&logo=sap&logoColor=white)
 ![Fiori / SAPUI5](https://img.shields.io/badge/Fiori%20%2F%20SAPUI5-161B22?style=flat-square&logo=sap&logoColor=white)
+![DDIC](https://img.shields.io/badge/DDIC-161B22?style=flat-square&logo=sap&logoColor=white)
+![ALV](https://img.shields.io/badge/ALV-161B22?style=flat-square&logo=sap&logoColor=white)
+![BAdI](https://img.shields.io/badge/BAdI-161B22?style=flat-square&logo=sap&logoColor=white)
+![BAPI](https://img.shields.io/badge/BAPI-161B22?style=flat-square&logo=sap&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-### AI
+### Agentic Engineering
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-161B22?style=flat-square&logo=claude&logoColor=white)
+![Claude Agent SDK](https://img.shields.io/badge/Claude%20Agent%20SDK-161B22?style=flat-square&logo=claude&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-161B22?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Agent Skills](https://img.shields.io/badge/Agent%20Skills-161B22?style=flat-square&logo=claude&logoColor=white)
+![Subagents](https://img.shields.io/badge/Subagents-161B22?style=flat-square&logo=claude&logoColor=white)
+![Hooks](https://img.shields.io/badge/Hooks-161B22?style=flat-square&logo=claude&logoColor=white)
+
+### AI & LLMs
 
 ![Claude](https://img.shields.io/badge/Claude-161B22?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-161B22?style=flat-square&logo=openai&logoColor=white)
@@ -55,15 +70,15 @@ My ambition is to build software that automates repetitive tasks - so that peopl
 ![LangGraph](https://img.shields.io/badge/LangGraph-161B22?style=flat-square&logo=langgraph&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-161B22?style=flat-square&logo=perplexity&logoColor=white)
 
+</td>
+<td valign="top">
+
 ### Machine Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-161B22?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-161B22?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-161B22?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-161B22?style=flat-square&logo=pandas&logoColor=white)
-
-</td>
-<td valign="top">
 
 ### Backend & API
 
@@ -74,6 +89,11 @@ My ambition is to build software that automates repetitive tasks - so that peopl
 ![.NET](https://img.shields.io/badge/.NET-161B22?style=flat-square&logo=dotnet&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-161B22?style=flat-square&logo=bun&logoColor=white)
 ![Discord.py](https://img.shields.io/badge/Discord.py-161B22?style=flat-square&logo=discord&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
 
 ### Automation & DevOps
 
@@ -89,8 +109,6 @@ My ambition is to build software that automates repetitive tasks - so that peopl
 ![Linux](https://img.shields.io/badge/Linux-161B22?style=flat-square&logo=linux&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td valign="top">
 
 ### Databases
@@ -99,9 +117,6 @@ My ambition is to build software that automates repetitive tasks - so that peopl
 ![MongoDB](https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-161B22?style=flat-square&logo=neo4j&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-161B22?style=flat-square&logo=sqlite&logoColor=white)
-
-</td>
-<td valign="top">
 
 ### Cloud & Infrastructure
 
