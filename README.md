@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1500&color=58A6FF&center=true&vCenter=true&width=900&lines=Jakub+Kamionka;Agentic+Engineer+%7C+SAP+Developer;SAP+ABAP+Developer+%40+Convista+Poland;Building+AI+agents+with+Claude+Code+%26+MCP" alt="Jakub Kamionka" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1500&color=58A6FF&center=true&vCenter=true&width=900&lines=Jakub+Kamionka;Agentic+Engineer+%7C+SAP+Developer" alt="Jakub Kamionka" />
 
 <p>
   <a href="https://linkedin.com/in/jakubkamionka"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a>
@@ -40,6 +40,7 @@ My ambition is to build software that automates repetitive tasks - so that peopl
 ![ABAP](https://img.shields.io/badge/ABAP-161B22?style=flat-square&logo=sap&logoColor=white)
 ![ABAP OO](https://img.shields.io/badge/ABAP%20OO-161B22?style=flat-square&logo=sap&logoColor=white)
 ![SAP RAP](https://img.shields.io/badge/SAP%20RAP-161B22?style=flat-square&logo=sap&logoColor=white)
+![SAP CAP](https://img.shields.io/badge/SAP%20CAP-161B22?style=flat-square&logo=sap&logoColor=white)
 ![OData](https://img.shields.io/badge/OData-161B22?style=flat-square&logo=sap&logoColor=white)
 ![Fiori / SAPUI5](https://img.shields.io/badge/Fiori%20%2F%20SAPUI5-161B22?style=flat-square&logo=sap&logoColor=white)
 ![DDIC](https://img.shields.io/badge/DDIC-161B22?style=flat-square&logo=sap&logoColor=white)
